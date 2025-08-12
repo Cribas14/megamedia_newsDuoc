@@ -30,4 +30,9 @@ Incluye 3 artículos de ejemplo y **video embebido de YouTube** en cada nota.
 - Imagen principal y **YouTube** embebido por artículo.
 - Plantillas con **Smarty**.
 
-## Estructura principal
+
+## Notas
+- Este repositorio **no** incluye `app/config.php` ni `templates_c/` (ignorados por .gitignore).
+- Cada artículo incluye `youtube_url`; el template lo incrusta automáticamente.
+- Probado en Windows (XAMPP). Si el navegador bloquea GA4, usar Edge en modo InPrivate.
+
