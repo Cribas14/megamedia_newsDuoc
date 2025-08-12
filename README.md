@@ -36,3 +36,14 @@ Incluye 3 artículos de ejemplo y **video embebido de YouTube** en cada nota.
 - Cada artículo incluye `youtube_url`; el template lo incrusta automáticamente.
 - Probado en Windows (XAMPP). Si el navegador bloquea GA4, usar Edge en modo InPrivate.
 
+## Capturas
+
+### GA4 — Tiempo real
+![GA4 Tiempo real](docs/ga4-realtime.png.PNG)
+
+### Home
+![Home](docs/home.png.PNG)
+
+### Artículo con video
+![Artículo con video](docs/article-video.png.PNG)
+
