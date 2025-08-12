@@ -1,0 +1,10 @@
+templates_c/
+app/config.php
+.env
+vendor/
+node_modules/
+cache/
+logs/
+*.log
+.DS_Store
+Thumbs.db
